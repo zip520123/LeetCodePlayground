@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7086CD9B4BA537E8E13B38A6 /* Pods_LeetCodePlayground.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFC103E531DCBD88930DFC81 /* Pods_LeetCodePlayground.framework */; };
 		D51BB33222A56CA300B02AD3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D51BB33122A56CA300B02AD3 /* AppDelegate.swift */; };
 		D51BB33422A56CA300B02AD3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D51BB33322A56CA300B02AD3 /* ViewController.swift */; };
 		D51BB33722A56CA300B02AD3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D51BB33522A56CA300B02AD3 /* Main.storyboard */; };
@@ -15,6 +16,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1A60A89468061824E683A636 /* Pods-LeetCodePlayground.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LeetCodePlayground.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LeetCodePlayground/Pods-LeetCodePlayground.debug.xcconfig"; sourceTree = "<group>"; };
+		484F0BE21327204A35E1DB6E /* Pods-LeetCodePlayground.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LeetCodePlayground.release.xcconfig"; path = "Pods/Target Support Files/Pods-LeetCodePlayground/Pods-LeetCodePlayground.release.xcconfig"; sourceTree = "<group>"; };
+		CFC103E531DCBD88930DFC81 /* Pods_LeetCodePlayground.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LeetCodePlayground.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D51BB32E22A56CA300B02AD3 /* LeetCodePlayground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCodePlayground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D51BB33122A56CA300B02AD3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D51BB33322A56CA300B02AD3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +26,24 @@
 		D51BB33822A56CA400B02AD3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D51BB33B22A56CA400B02AD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D51BB33D22A56CA400B02AD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D51BB34422A56E5B00B02AD3 /* Climbing Stairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Climbing Stairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D51BB34622A56EAF00B02AD3 /* Remove Nth Node From End of List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Remove Nth Node From End of List.playground"; sourceTree = "<group>"; };
+		D51BB34822A56EC100B02AD3 /* Maximum Depth of Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Maximum Depth of Binary Tree.playground"; sourceTree = "<group>"; };
+		D51BB34922A56F0100B02AD3 /* kkstream3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = kkstream3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D51BB34A22A56F0100B02AD3 /* kkstream2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = kkstream2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D51BB34B22A56F0100B02AD3 /* Contains Duplicate.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Contains Duplicate.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D51BB34C22A56F0100B02AD3 /* Merge Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Merge Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D51BB34D22A56F0100B02AD3 /* Intersection of Two Arrays II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Intersection of Two Arrays II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D51BB34E22A56F0200B02AD3 /* First Unique Character in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "First Unique Character in a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D51BB34F22A56F0200B02AD3 /* kkstream.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = kkstream.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D51BB35022A56F0200B02AD3 /* Plus One.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Plus One.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D51BB35122A56F0200B02AD3 /* Recursive.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Recursive.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D51BB35222A56F0200B02AD3 /* Count Primes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Count Primes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D51BB35322A56F1600B02AD3 /* Valid Sudoku.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Valid Sudoku.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D51BB35422A56F1600B02AD3 /* Valid Palindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Valid Palindrome.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D51BB35522A56F1700B02AD3 /* Rotate Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Rotate Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D51BB35622A56F1700B02AD3 /* Valid Anagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Valid Anagram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D51BB35722A56F1700B02AD3 /* Rotate Image.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Rotate Image.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7086CD9B4BA537E8E13B38A6 /* Pods_LeetCodePlayground.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +63,8 @@
 			children = (
 				D51BB33022A56CA300B02AD3 /* LeetCodePlayground */,
 				D51BB32F22A56CA300B02AD3 /* Products */,
+				E790B77919F2B2C14911AFD9 /* Pods */,
+				FDBF86C04EE6D6691BFBC63D /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,6 +79,39 @@
 		D51BB33022A56CA300B02AD3 /* LeetCodePlayground */ = {
 			isa = PBXGroup;
 			children = (
+				D51BB34322A56E1500B02AD3 /* PlaygroundPage */,
+				D51BB35822A56F4600B02AD3 /* app */,
+			);
+			path = LeetCodePlayground;
+			sourceTree = "<group>";
+		};
+		D51BB34322A56E1500B02AD3 /* PlaygroundPage */ = {
+			isa = PBXGroup;
+			children = (
+				D51BB35922A56F8000B02AD3 /* Easy */,
+			);
+			path = PlaygroundPage;
+			sourceTree = "<group>";
+		};
+		D51BB34522A56EAF00B02AD3 /* linkList */ = {
+			isa = PBXGroup;
+			children = (
+				D51BB34622A56EAF00B02AD3 /* Remove Nth Node From End of List.playground */,
+			);
+			path = linkList;
+			sourceTree = "<group>";
+		};
+		D51BB34722A56EC100B02AD3 /* tree */ = {
+			isa = PBXGroup;
+			children = (
+				D51BB34822A56EC100B02AD3 /* Maximum Depth of Binary Tree.playground */,
+			);
+			path = tree;
+			sourceTree = "<group>";
+		};
+		D51BB35822A56F4600B02AD3 /* app */ = {
+			isa = PBXGroup;
+			children = (
 				D51BB33122A56CA300B02AD3 /* AppDelegate.swift */,
 				D51BB33322A56CA300B02AD3 /* ViewController.swift */,
 				D51BB33522A56CA300B02AD3 /* Main.storyboard */,
@@ -61,7 +119,57 @@
 				D51BB33A22A56CA400B02AD3 /* LaunchScreen.storyboard */,
 				D51BB33D22A56CA400B02AD3 /* Info.plist */,
 			);
-			path = LeetCodePlayground;
+			path = app;
+			sourceTree = "<group>";
+		};
+		D51BB35922A56F8000B02AD3 /* Easy */ = {
+			isa = PBXGroup;
+			children = (
+				D51BB35B22A5703900B02AD3 /* kkstream */,
+				D51BB34422A56E5B00B02AD3 /* Climbing Stairs.playground */,
+				D51BB35522A56F1700B02AD3 /* Rotate Array.playground */,
+				D51BB35722A56F1700B02AD3 /* Rotate Image.playground */,
+				D51BB35622A56F1700B02AD3 /* Valid Anagram.playground */,
+				D51BB35422A56F1600B02AD3 /* Valid Palindrome.playground */,
+				D51BB35322A56F1600B02AD3 /* Valid Sudoku.playground */,
+				D51BB34B22A56F0100B02AD3 /* Contains Duplicate.playground */,
+				D51BB35222A56F0200B02AD3 /* Count Primes.playground */,
+				D51BB34E22A56F0200B02AD3 /* First Unique Character in a String.playground */,
+				D51BB34D22A56F0100B02AD3 /* Intersection of Two Arrays II.playground */,
+				D51BB34C22A56F0100B02AD3 /* Merge Sorted Array.playground */,
+				D51BB35122A56F0200B02AD3 /* Recursive.playground */,
+				D51BB35022A56F0200B02AD3 /* Plus One.playground */,
+				D51BB34722A56EC100B02AD3 /* tree */,
+				D51BB34522A56EAF00B02AD3 /* linkList */,
+			);
+			path = Easy;
+			sourceTree = "<group>";
+		};
+		D51BB35B22A5703900B02AD3 /* kkstream */ = {
+			isa = PBXGroup;
+			children = (
+				D51BB34F22A56F0200B02AD3 /* kkstream.playground */,
+				D51BB34A22A56F0100B02AD3 /* kkstream2.playground */,
+				D51BB34922A56F0100B02AD3 /* kkstream3.playground */,
+			);
+			path = kkstream;
+			sourceTree = "<group>";
+		};
+		E790B77919F2B2C14911AFD9 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1A60A89468061824E683A636 /* Pods-LeetCodePlayground.debug.xcconfig */,
+				484F0BE21327204A35E1DB6E /* Pods-LeetCodePlayground.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		FDBF86C04EE6D6691BFBC63D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CFC103E531DCBD88930DFC81 /* Pods_LeetCodePlayground.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +179,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D51BB34022A56CA400B02AD3 /* Build configuration list for PBXNativeTarget "LeetCodePlayground" */;
 			buildPhases = (
+				B0AB71B12A48244095351C1B /* [CP] Check Pods Manifest.lock */,
 				D51BB32A22A56CA300B02AD3 /* Sources */,
 				D51BB32B22A56CA300B02AD3 /* Frameworks */,
 				D51BB32C22A56CA300B02AD3 /* Resources */,
+				7F5674C5DA84516F54732CF9 /* [CP] Embed Pods Frameworks */,
+				31F678333192FF45867DAB8E /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -129,6 +240,62 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		31F678333192FF45867DAB8E /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LeetCodePlayground/Pods-LeetCodePlayground-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7F5674C5DA84516F54732CF9 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-LeetCodePlayground/Pods-LeetCodePlayground-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework",
+				"${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RxCocoa.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RxSwift.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LeetCodePlayground/Pods-LeetCodePlayground-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B0AB71B12A48244095351C1B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-LeetCodePlayground-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		D51BB32A22A56CA300B02AD3 /* Sources */ = {
@@ -280,6 +447,7 @@
 		};
 		D51BB34122A56CA400B02AD3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1A60A89468061824E683A636 /* Pods-LeetCodePlayground.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -298,6 +466,7 @@
 		};
 		D51BB34222A56CA400B02AD3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 484F0BE21327204A35E1DB6E /* Pods-LeetCodePlayground.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
