@@ -44,6 +44,7 @@
 		D51BB35522A56F1700B02AD3 /* Rotate Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Rotate Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D51BB35622A56F1700B02AD3 /* Valid Anagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Valid Anagram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D51BB35722A56F1700B02AD3 /* Rotate Image.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Rotate Image.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D51BB35D22F329BD00B02AD3 /* Shuffle an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Shuffle an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +141,7 @@
 				D51BB35122A56F0200B02AD3 /* Recursive.playground */,
 				D51BB35022A56F0200B02AD3 /* Plus One.playground */,
 				D51BB34722A56EC100B02AD3 /* tree */,
+				D51BB35C22F3298300B02AD3 /* Design */,
 				D51BB34522A56EAF00B02AD3 /* linkList */,
 			);
 			path = Easy;
@@ -153,6 +155,14 @@
 				D51BB34922A56F0100B02AD3 /* kkstream3.playground */,
 			);
 			path = kkstream;
+			sourceTree = "<group>";
+		};
+		D51BB35C22F3298300B02AD3 /* Design */ = {
+			isa = PBXGroup;
+			children = (
+				D51BB35D22F329BD00B02AD3 /* Shuffle an Array.playground */,
+			);
+			path = Design;
 			sourceTree = "<group>";
 		};
 		E790B77919F2B2C14911AFD9 /* Pods */ = {

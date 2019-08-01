@@ -1,0 +1,6 @@
+framework module Pods_LeetCodePlayground {
+  umbrella header "Pods-LeetCodePlayground-umbrella.h"
+
+  export *
+  module * { export * }
+}
