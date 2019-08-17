@@ -9,6 +9,7 @@ target 'LeetCodePlayground' do
   # Pods for LeetCodePlayground
   pod 'RxSwift', '~> 4.4'
   pod 'RxCocoa', '~> 4.4'
+  pod 'RxSwiftExt', '3.4'
 end
 
 post_install do |installer|

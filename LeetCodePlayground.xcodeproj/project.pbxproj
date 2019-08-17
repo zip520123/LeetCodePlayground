@@ -45,6 +45,7 @@
 		D51BB35622A56F1700B02AD3 /* Valid Anagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Valid Anagram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D51BB35722A56F1700B02AD3 /* Rotate Image.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Rotate Image.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D51BB35D22F329BD00B02AD3 /* Shuffle an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Shuffle an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D57A16202308378A00E6A66D /* Min Stack.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Min Stack.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -161,6 +162,7 @@
 			isa = PBXGroup;
 			children = (
 				D51BB35D22F329BD00B02AD3 /* Shuffle an Array.playground */,
+				D57A16202308378A00E6A66D /* Min Stack.playground */,
 			);
 			path = Design;
 			sourceTree = "<group>";
@@ -276,11 +278,13 @@
 				"${SRCROOT}/Pods/Target Support Files/Pods-LeetCodePlayground/Pods-LeetCodePlayground-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework",
 				"${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework",
+				"${BUILT_PRODUCTS_DIR}/RxSwiftExt/RxSwiftExt.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RxCocoa.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RxSwift.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RxSwiftExt.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
