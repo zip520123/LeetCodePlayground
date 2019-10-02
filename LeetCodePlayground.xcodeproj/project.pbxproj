@@ -46,6 +46,8 @@
 		D51BB35722A56F1700B02AD3 /* Rotate Image.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Rotate Image.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D51BB35D22F329BD00B02AD3 /* Shuffle an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Shuffle an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D57A16202308378A00E6A66D /* Min Stack.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Min Stack.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		E73C45752344643E003349CC /* FizzBuzz.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FizzBuzz.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		E73C4576234464DD003349CC /* Count Primes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Count Primes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 		D51BB35922A56F8000B02AD3 /* Easy */ = {
 			isa = PBXGroup;
 			children = (
+				E73C457423446409003349CC /* Math */,
 				D51BB35B22A5703900B02AD3 /* kkstream */,
 				D51BB34422A56E5B00B02AD3 /* Climbing Stairs.playground */,
 				D51BB35522A56F1700B02AD3 /* Rotate Array.playground */,
@@ -165,6 +168,15 @@
 				D57A16202308378A00E6A66D /* Min Stack.playground */,
 			);
 			path = Design;
+			sourceTree = "<group>";
+		};
+		E73C457423446409003349CC /* Math */ = {
+			isa = PBXGroup;
+			children = (
+				E73C45752344643E003349CC /* FizzBuzz.playground */,
+				E73C4576234464DD003349CC /* Count Primes.playground */,
+			);
+			path = Math;
 			sourceTree = "<group>";
 		};
 		E790B77919F2B2C14911AFD9 /* Pods */ = {
