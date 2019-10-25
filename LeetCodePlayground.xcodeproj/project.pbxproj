@@ -48,6 +48,7 @@
 		D57A16202308378A00E6A66D /* Min Stack.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Min Stack.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E73C45752344643E003349CC /* FizzBuzz.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FizzBuzz.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E73C4576234464DD003349CC /* Count Primes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Count Primes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		E7C7AEC52362A97D00FD8DD1 /* String to Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "String to Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +130,7 @@
 		D51BB35922A56F8000B02AD3 /* Easy */ = {
 			isa = PBXGroup;
 			children = (
+				E7C7AEC42362A95E00FD8DD1 /* Strings */,
 				E73C457423446409003349CC /* Math */,
 				D51BB35B22A5703900B02AD3 /* kkstream */,
 				D51BB34422A56E5B00B02AD3 /* Climbing Stairs.playground */,
@@ -186,6 +188,14 @@
 				484F0BE21327204A35E1DB6E /* Pods-LeetCodePlayground.release.xcconfig */,
 			);
 			name = Pods;
+			sourceTree = "<group>";
+		};
+		E7C7AEC42362A95E00FD8DD1 /* Strings */ = {
+			isa = PBXGroup;
+			children = (
+				E7C7AEC52362A97D00FD8DD1 /* String to Integer.playground */,
+			);
+			path = Strings;
 			sourceTree = "<group>";
 		};
 		FDBF86C04EE6D6691BFBC63D /* Frameworks */ = {
