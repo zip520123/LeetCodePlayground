@@ -48,6 +48,7 @@
 		D57A16202308378A00E6A66D /* Min Stack.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Min Stack.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E73C45752344643E003349CC /* FizzBuzz.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FizzBuzz.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E73C4576234464DD003349CC /* Count Primes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Count Primes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		E7B9434C2351759800D492AE /* Power of Three Solution.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Power of Three Solution.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -173,6 +174,7 @@
 		E73C457423446409003349CC /* Math */ = {
 			isa = PBXGroup;
 			children = (
+				E7B9434C2351759800D492AE /* Power of Three Solution.playground */,
 				E73C45752344643E003349CC /* FizzBuzz.playground */,
 				E73C4576234464DD003349CC /* Count Primes.playground */,
 			);
